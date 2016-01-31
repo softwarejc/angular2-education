@@ -18,6 +18,7 @@
 * [The awesomeness of Angular 2 (Ciro Nunes)](https://speakerdeck.com/cironunes/the-awesomeness-of-angular-2)
 * [The main goals of Angular 2](http://blog.jhades.org/introduction-to-angular2-the-main-goals/)
 * [Video: ANGULARJS 2.0 features and beyond (Rob Eisenberg)](https://www.youtube.com/watch?v=odY7fUjI1ZU)
+* [Getting Started with Angular 2 and ASP NET Core 1 (Juan Carlos Sánchez)] (http://softwarejuancarlos.com/2016/01/24/getting-started-with-asp-net-core-1-and-angular-2-in-visual-studio-2015)
 
 ### Angular 2 Explained
 
@@ -132,6 +133,7 @@
 * [Angular 2 Table pagination example + Java Spring Backend ](https://github.com/zouabimourad/angular2-spring)
 * [Dribbble Clone using Angular 2](https://github.com/zamamohammed/ng2-dribbble)
 * [Angular 2 & TypeScript implementation of the Responsive Dashboard (RDash) admin dashboard theme @ziyasal](https://github.com/ziyasal/rdash-angular2)
+* [Angular 2 Chosen wrapper](https://github.com/zouabimourad/angular2-chosen)
 
 ### Live Code Experiments
 * [Angular 1 with Angular 2 Dependency Injection (Rob Wormald)](http://plnkr.co/edit/cc9wXp?p=preview)
